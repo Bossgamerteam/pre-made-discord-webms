@@ -1,7 +1,7 @@
 # Pre Made discord webm cursed videos
 
 ## Request one:
-**Create an Issue with the video.**
+**Create an [Issue](https://github.com/Bossgamerteam/pre-made-discord-webms/issues/new) with the video.**
 
 ## Create one:
 **Guide to create them is on the used github urls below**
